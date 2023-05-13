@@ -5,14 +5,14 @@
 
 ![Bug](https://github.com/dpalwallet/DoginalsPlan/blob/main/VrS3YEGy.jpg)
 
-## keep inscriptions locked
+## Step 1 : keep inscriptions locked
 ![make it checked](https://github.com/dpalwallet/DoginalsPlan/blob/main/%E6%8D%95%E8%8E%B7111.PNG)
 
-## reset your wallet 
+## Step 2 : reset your wallet 
 ![reset](https://github.com/dpalwallet/DoginalsPlan/blob/main/%E6%8D%95%E8%8E%B71121.PNG)
 ![reset](https://github.com/dpalwallet/DoginalsPlan/blob/main/reset3.PNG)
 
-## reopen your wallet wait for few time it will back 
+## Step 3 : reopen your wallet wait for few time it will back 
 
 ### Please make sure
 * dont use mobile
